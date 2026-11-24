@@ -2,8 +2,6 @@
 
 ## Sobre o projeto
 
-Trabalho acadêmico desenvolvido durante a graduação em Engenharia de Computação no CEFET-RJ.
-
 O projeto consiste na implementação de um programa em linguagem C para representar e analisar uma rede de sensores utilizando grafos não direcionados e ponderados.
 
 O objetivo é aplicar conceitos de estruturas de dados, teoria dos grafos e algoritmos na análise da conectividade e da resistência de uma rede a falhas.
